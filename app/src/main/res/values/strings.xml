@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseDemo</string>
+    <array name="faculties">
+        <item>IT</item>
+        <item>Business</item>
+        <item>Medicine</item>
+    </array>
+</resources>
